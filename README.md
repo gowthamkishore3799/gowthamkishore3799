@@ -35,7 +35,7 @@ Oh, the treasures I've created! But, alas, my most magnificent creations are loc
 
 ## 📫 Connect & Conspire
 
-- LinkedIn: [Gowtham Kishore]([[LINK_TO_LINKEDIN_PROFILE](https://www.linkedin.com/in/gowtham-kishore-gk-aa597715a/)])
+- LinkedIn: [Gowtham Kishore](https://www.linkedin.com/in/gowtham-kishore-gk-aa597715a/)
 
 
 Feel free to explore my repositories, share a laugh, or reach out for some tech wizardry. Happy coding, and may your code be as bug-free as a wizard's spell! 😄✨
