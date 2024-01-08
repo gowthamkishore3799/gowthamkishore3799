@@ -18,17 +18,16 @@ I'm Gowtham Kishore, your friendly neighborhood code enthusiast from the vibrant
   <a href="https://www.postgresql.org" rel="nofollow"> <img src="https://camo.githubusercontent.com/1c93309e27f7e3828accdc0492277a51ebaa33f925cd8b6a2b21262fe2b0db66/68747470733a2f2f75706c6f61642e77696b696d656469612e6f72672f77696b6970656469612f636f6d6d6f6e732f322f32392f506f737467726573716c5f656c657068616e742e737667" alt="postgresql" width="40" height="40" data-canonical-src="https://upload.wikimedia.org/wikipedia/commons/2/29/Postgresql_elephant.svg" style="max-width: 100%;"> </a>
 </p>
 
-## 🎓 Academic Shenanigans
+## 🎓 Academic Pursuits
 
-I'm currently on a mission to crack the code of academia while secretly plotting world domination – one line of code at a time.
+I'm currently immersed in the world of academia, pursuing my master's degree with an insatiable thirst for knowledge.
 
-## 💻 Tech Wizardry
+## 💻 Professional Experience
 
-In my previous life (a whopping three years ago), I danced with code as a software development engineer. My wizardry included spellbinding microservices in the magical realm of "cloud.yellow.ai" and "app.yellow.ai." Rumor has it, the code is still singing my praises.
+With a rich background in software development spanning three years, I've delved into projects that contributed significantly to the tech ecosystem. My notable experience includes:
 
-## 🤖 LLMs & Humor
-
-Now, let's talk about Language Learning Models (LLMs). These magical beings not only made my content funny but also made me realize that my jokes were competing with AI. Kudos to LLMs for adding a touch of humor to my otherwise serious code life.
+- Contributing to the development of multiple microservices in the saas main products.
+- Leading the integration of Language Learning Models (LLMs) with conversational AI.
 
 ## 🚀 GitHub Projects
 
@@ -40,3 +39,9 @@ Oh, the treasures I've created! But, alas, my most magnificent creations are loc
 
 
 Feel free to explore my repositories, share a laugh, or reach out for some tech wizardry. Happy coding, and may your code be as bug-free as a wizard's spell! 😄✨
+
+
+## 😄 Humor Disclaimer
+
+I would like to be funny, but not funny enough to generate such content on my own. Thanks to Language Learning Models (LLMs) for lending me their wit and humor to make my content entertaining. Just to be clear, while the tone is playful, the content is all me! 😉
+
