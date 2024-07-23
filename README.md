@@ -28,9 +28,6 @@ With a rich background in software development spanning three years, I've delved
 - Contributing to the development of multiple microservices in the saas main products.
 - Leading the integration of Language Learning Models (LLMs) with conversational AI.
 
-## 🚀 GitHub Projects
-
-Oh, the treasures I've created! But, alas, my most magnificent creations are locked away in the vaults of my previous organization. Fear not! The GitHub magic will be unleashed soon.
 
 ## 📫 Connect & Conspire
 
@@ -41,7 +38,4 @@ Oh, the treasures I've created! But, alas, my most magnificent creations are loc
 Feel free to explore my repositories, share a laugh, or reach out for some tech wizardry. Happy coding, and may your code be as bug-free as a wizard's spell! 😄✨
 
 
-## 😄 Humor Disclaimer
-
-I would like to be funny, but not funny enough to generate such content on my own. Thanks to Language Learning Models (LLMs) for lending me their wit and humor to make my content entertaining. Just to be clear, while the tone is playful, the content is all me! 😉
 
