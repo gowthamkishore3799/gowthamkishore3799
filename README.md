@@ -1,6 +1,6 @@
 # Howdy, I'm Gowtham Kishore! 👋
 
-I'm Gowtham Kishore, your friendly neighborhood code enthusiast from the vibrant land of India. Currently juggling between coding and pursuing my master's degree at a university in sunny California because why not make life a bit more interesting?
+Hi, I'm Gowtham Kishore, a passionate software engineer from the vibrant land of India. Currently, I'm pursuing my master's degree in Computer Science at California State University, San Bernardino, while balancing my love for coding and constant learning. With a knack for building scalable solutions and a drive to push boundaries, I thrive on solving complex challenges and turning ideas into impactful products. From developing conversational AI platforms to designing live streaming servers, I believe in learning by doing — and having fun along the way!
 
 ## 🔧 Technologies & Tools
 
@@ -19,23 +19,25 @@ I'm Gowtham Kishore, your friendly neighborhood code enthusiast from the vibrant
 
 ## 🎓 Academic Pursuits
 
-I'm currently immersed in the world of academia, pursuing my master's degree with an insatiable thirst for knowledge.
+I'm currently pursuing my master's degree in California State University.
 
 ## 💻 Professional Experience
 
-With a rich background in software development spanning three years, I've delved into projects that contributed significantly to the tech ecosystem. My notable experience includes:
+With a rich background in software development spanning three years, I've delved into projects that contributed significantly to the tech ecosystem. My notable experience includes
 
 - Contributing to the development of multiple microservices in the saas main products.
 - Leading the integration of Language Learning Models (LLMs) with conversational AI.
+-  See my portfolio for detailed information Portfolio: [Gowtham Kishore](https://gowtham-kishore.me)
 
 
 ## 📫 Connect & Conspire
 
 - LinkedIn: [Gowtham Kishore](https://www.linkedin.com/in/gowtham-kishore-gk-aa597715a/)
-- Portfolio: [Gowtham Kishore](https://gowtham-kishore.vercel.app/)
+- Portfolio: [Gowtham Kishore](https://gowtham-kishore.me)
 
 
-Feel free to explore my repositories, share a laugh, or reach out for some tech wizardry. Happy coding, and may your code be as bug-free as a wizard's spell! 😄✨
+![Profile view counter on GitHub](https://komarev.com/ghpvc/?username=perisicnikola37)
+
 
 
 
