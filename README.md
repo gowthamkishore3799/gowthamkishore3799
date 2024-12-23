@@ -37,6 +37,7 @@ With a rich background in software development spanning three years, I've delved
 
 
 ![Profile view counter on GitHub](https://komarev.com/ghpvc/?username=perisicnikola37)
+[![My GitHub stats](https://github-readme-stats.vercel.app/api?username=gowthamkishore3799)]
 
 
 
