@@ -23,7 +23,7 @@ I'm currently pursuing my master's degree in California State University.
 
 ## 💻 Professional Experience
 
-With a rich background in software development spanning three years, I've delved into projects that contributed significantly to the tech ecosystem. My notable experience includes
+With a rich background in software development, I've delved into projects that contributed significantly to the tech ecosystem. My notable experience includes
 
 - Contributing to the development of multiple microservices in the saas main products.
 - Leading the integration of Language Learning Models (LLMs) with conversational AI.
