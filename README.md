@@ -1,6 +1,6 @@
 # Howdy, I'm Gowtham Kishore! 👋
 
-Hi, I'm Gowtham Kishore, a passionate software engineer from the vibrant land of India. Currently, I'm pursuing my master's degree in Computer Science at California State University, San Bernardino, while balancing my love for coding and constant learning. With a knack for building scalable solutions and a drive to push boundaries, I thrive on solving complex challenges and turning ideas into impactful products. From developing conversational AI platforms to designing live streaming servers, I believe in learning by doing — and having fun along the way!
+Hi, I'm Gowtham Kishore, a passionate software engineer from the vibrant land of India. Currently, I'm pursuing my master's degree in Computer Science at California State University, San Bernardino. I enjoy working on and contributing to products that excite me—it’s a chance to learn, innovate, and bring ideas to life while having fun in the process.
 
 ## 🔧 Technologies & Tools
 
@@ -22,7 +22,7 @@ Hi, I'm Gowtham Kishore, a passionate software engineer from the vibrant land of
 
 ## 🎓 Academic Pursuits
 
-I'm currently pursuing my master's degree in California State University.
+I'm currently pursuing my master's degree in California State University graduting in Spring 2025
 
 ## 💻 Professional Experience
 
