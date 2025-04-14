@@ -36,7 +36,7 @@ With a rich background in software development, I've delved into projects that c
 ## 📫 Connect & Conspire
 
 - LinkedIn: [Gowtham Kishore](https://www.linkedin.com/in/gowtham-kishore-gk-aa597715a/)
-- Portfolio: [Gowtham Kishore](https://gowtham-kishore.me)
+- Portfolio: [Gowtham Kishore](https://www.gowtham-kishore.me)
 
 
 ![Profile view counter on GitHub](https://komarev.com/ghpvc/?username=perisicnikola37)
