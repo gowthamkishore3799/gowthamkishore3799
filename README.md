@@ -28,7 +28,7 @@
 
 ###
 
-<p align="left">👋 Hi, I'm Gowtham Kishore<br><br>I'm a passionate software engineer originally from India, now based in California. I recently graduated with a Master's degree in Computer Science from California State University, San Bernardino (Spring 2025).<br><br>🔭 I’m currently working on...<br>- Contributing to open-source projects focused on AI, infrastructure, and developer tools  <br>- Actively seeking full-time opportunities to build impactful software at scale<br><br>⚡ In my free time I...<br>- Contribute to the open-source ecosystem  <br>- Share ideas and insights through technical blog posts  <br>- Explore new technologies and build side projects  <br>- Hit the gym to stay active 💪  <br>- Go on long drives to unwind 🚗</p>
+<p align="left">👋 Hi, I'm Gowtham Kishore<br><br>I'm a passionate software engineer originally from India, now based in California. I recently graduated with a Master's degree in Computer Science from California State University, San Bernardino (Spring 2025).<br><br>🔭 I’m currently working on...<br>- Contributing to open-source projects  <br>- Actively seeking full-time opportunities to build impactful software at scale<br><br>⚡ In my free time I...<br>- Contribute to the open-source ecosystem  <br>- Share ideas and insights through technical blog posts  <br>- Explore new technologies and build side projects  <br>- Hit the gym to stay active 💪  <br>- Go on long drives to unwind 🚗</p>
 
 ###
 
