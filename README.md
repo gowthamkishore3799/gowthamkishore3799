@@ -13,9 +13,6 @@
     <img src="https://img.shields.io/static/v1?message=Portfolio&logo=dev.to&label=%F0%9F%93%81&color=0A0A0A&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="devto logo"  />
   </a>
 </div>
-<div align="center">
- [![Portfolio Badge](https://img.shields.io/badge/Portfolio-gowtham--kishore.me-blue?style=flat-square&logo=google-chrome)](https://gowtham-kishore.me)
-</div>
 
 ###
 
@@ -82,8 +79,7 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=gowthamkishore3799&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" height="150" alt="languages graph"  />
 </div>
 
-###
 
-<img src="https://raw.githubusercontent.com/gowthamkishore3799/gowthamkishore3799/output/snake.svg" alt="Snake animation" />
+![Profile view counter on GitHub](https://komarev.com/ghpvc/?username=perisicnikola37)
 
 ###
