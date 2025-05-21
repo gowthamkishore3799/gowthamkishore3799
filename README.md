@@ -14,7 +14,7 @@
   </a>
 </div>
 <div align="center">
-  ![Profile view counter on GitHub](https://komarev.com/ghpvc/?username=perisicnikola37)
+ [![Portfolio Badge](https://img.shields.io/badge/Portfolio-gowtham--kishore.me-blue?style=flat-square&logo=google-chrome)](https://gowtham-kishore.me)
 </div>
 
 ###
