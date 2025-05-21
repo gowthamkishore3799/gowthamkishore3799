@@ -81,5 +81,6 @@
 
 
 ![Profile view counter on GitHub](https://komarev.com/ghpvc/?username=perisicnikola37)
+<img src="https://raw.githubusercontent.com/gowthamkishore3799/gowthamkishore3799/output/snake.svg" alt="Snake animation" />
 
 ###
