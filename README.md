@@ -14,6 +14,10 @@
   </a>
 </div>
 
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=perisicnikola37" alt="Profile view counter on GitHub" />
+</p>
+
 ###
 
 <h1 align="center">Howdy 👋</h1>
@@ -80,7 +84,4 @@
 </div>
 
 
-![Profile view counter on GitHub](https://komarev.com/ghpvc/?username=perisicnikola37)
-<img src="https://raw.githubusercontent.com/gowthamkishore3799/gowthamkishore3799/output/snake.svg" alt="Snake animation" />
 
-###
