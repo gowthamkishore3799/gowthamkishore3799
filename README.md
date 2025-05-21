@@ -1,48 +1,89 @@
-# Howdy, I'm Gowtham Kishore! 👋
 
-Hi, I'm Gowtham Kishore, a passionate software engineer from the vibrant land of India. Currently, I'm pursuing my master's degree in Computer Science at California State University, San Bernardino. I enjoy working on and contributing to products that excite me—it’s a chance to learn, innovate, and bring ideas to life while having fun in the process.
+<div align="center">
+  <img height="150" src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif"  />
+</div>
 
-## 🔧 Technologies & Tools
+###
 
-<p align="left" dir="auto">
-  <a href="https://nodejs.org/" rel="nofollow"> <img src="https://github.com/nodejs.png?size=40" alt="node" width="40" height="40" data-canonical-src="https://upload.wikimedia.org/wikipedia/commons/d/d9/Node.js_logo.svg" style="max-width: 100%;"> </a>
-  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" rel="nofollow"> <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" alt="javascript" width="40" height="40" data-canonical-src="https://upload.wikimedia.org/wikipedia/commons/6/6a/JavaScript-logo.png" style="max-width: 100%;"> </a>
-  <a href="https://www.typescriptlang.org/" rel="nofollow"> <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/typescript/typescript.png" alt="typescript" width="40" height="40" data-canonical-src="https://upload.wikimedia.org/wikipedia/commons/4/4c/Typescript_logo_2020.svg" style="max-width: 100%;"> </a>
-  <a href="https://expressjs.com/" rel="nofollow"> <img src="https://avatars.githubusercontent.com/u/5658226?s=40&v=4" alt="node" width="40" height="40" data-canonical-src="https://upload.wikimedia.org/wikipedia/commons/d/d9/Node.js_logo.svg" style="max-width: 100%;"> </a>
-  <a href="https://www.python.org" rel="nofollow"> 
-  <img src="https://github.com/python.png?size=40" alt="python" width="40" height="40" data-canonical-src="https://upload.wikimedia.org/wikipedia/commons/c/c3/Python-logo-notext.svg" style="max-width: 100%;"> 
+<div align="center">
+  <a href="https://www.linkedin.com/in/gowtham-kishore-gk/" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="linkedin logo"  />
   </a>
-  <a href="https://redis.io/" rel="nofollow"> <img src="https://avatars.githubusercontent.com/u/1529926?s=48&v=4" style="max-width: 100%;"> </a>
-  <a href="https://www.docker.com/" rel="nofollow"> <img src="https://github.com/docker-library.png?size=40" alt="docker" width="40" height="40" data-canonical-src="https://www.docker.com/wp-content/uploads/2022/03/vertical-logo-monochromatic.png" style="max-width: 100%;"> </a>
-  <a href="https://git-scm.com/" rel="nofollow"> <img src="https://github.com/git.png?size=40" alt="git" width="40" height="40" data-canonical-src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" style="max-width: 100%;"> </a>
-  <a href="https://www.mongodb.com/" rel="nofollow"> <img src="https://github.com/mongodb.png?size=40" alt="mongodb" width="40" height="40" data-canonical-src="https://w7.pngwing.com/pngs/63/19/png-transparent-mongodb-database-nosql-postgresql-mongo-text-logo-business-thumbnail.png" style="max-width: 100%;"> </a>
-  <a href="https://www.mysql.com/" rel="nofollow"> <img src="https://github.com/mysql.png?size=40" alt="mysql" width="40" height="40" data-canonical-src="https://upload.wikimedia.org/wikipedia/commons/0/0a/MySQL_textlogo.svg" style="max-width: 100%;"> </a>
-  <a href="https://www.postgresql.org" rel="nofollow"> <img src="https://github.com/postgres.png?size=40" alt="postgresql" width="40" height="40" data-canonical-src="https://upload.wikimedia.org/wikipedia/commons/2/29/Postgresql_elephant.svg" style="max-width: 100%;"> </a>
-</p>
+  <a href="https://gowtham-kishore.me" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Portfolio&logo=dev.to&label=%F0%9F%93%81&color=0A0A0A&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="devto logo"  />
+  </a>
+</div>
+<div align="center">
+  ![Profile view counter on GitHub](https://komarev.com/ghpvc/?username=perisicnikola37)
+</div>
 
-## 🎓 Academic Pursuits
+###
 
-I'm currently pursuing my master's degree in California State University graduting in Spring 2025
+<h1 align="center">Howdy 👋</h1>
 
-## 💻 Professional Experience
+###
 
-With a rich background in software development, I've delved into projects that contributed significantly to the tech ecosystem. My notable experience includes
+<h3 align="left">👩‍💻  About Me</h3>
 
-- Contributing to the development of multiple microservices in the saas main products.
-- Leading the integration of Language Learning Models (LLMs) with conversational AI.
--  See my portfolio for detailed information Portfolio: [Gowtham Kishore](https://gowtham-kishore.me)
+###
 
+<p align="left">👋 Hi, I'm Gowtham Kishore<br><br>I'm a passionate software engineer originally from India, now based in California. I recently graduated with a Master's degree in Computer Science from California State University, San Bernardino (Spring 2025).<br><br>🔭 I’m currently working on...<br>- Contributing to open-source projects focused on AI, infrastructure, and developer tools  <br>- Actively seeking full-time opportunities to build impactful software at scale<br><br>⚡ In my free time I...<br>- Contribute to the open-source ecosystem  <br>- Share ideas and insights through technical blog posts  <br>- Explore new technologies and build side projects  <br>- Hit the gym to stay active 💪  <br>- Go on long drives to unwind 🚗</p>
 
-## 📫 Connect & Conspire
+###
 
-- LinkedIn: [Gowtham Kishore](https://www.linkedin.com/in/gowtham-kishore-gk-aa597715a/)
-- Portfolio: [Gowtham Kishore](https://www.gowtham-kishore.me)
+<h3 align="left">🛠 Language and tools</h3>
 
+###
 
-![Profile view counter on GitHub](https://komarev.com/ghpvc/?username=perisicnikola37)
-<br/>
-[![My GitHub stats](https://github-readme-stats.vercel.app/api?username=gowthamkishore3799)]
+<div align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="40" alt="nodejs logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="40" alt="typescript logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="python logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" alt="react logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/go/go-original-wordmark.svg" height="40" alt="go logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redis/redis-original.svg" height="40" alt="redis logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" height="40" alt="mongodb logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="40" alt="postgresql logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/apachekafka/apachekafka-original.svg" height="40" alt="apachekafka logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-plain-wordmark.svg" height="40" alt="docker logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kubernetes/kubernetes-plain.svg" height="40" alt="kubernetes logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-line-wordmark.svg" height="40" alt="amazonwebservices logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/azure/azure-original.svg" height="40" alt="azure logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="40" alt="github logo"  />
+</div>
 
+###
 
+<h3 align="left">🔥   My Stats :</h3>
 
+###
 
+<div align="center">
+  <img src="https://streak-stats.demolab.com?user=gowthamkishore3799&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5&order=3" height="220" alt="streak graph"  />
+</div>
+
+###
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=gowthamkishore3799&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&order=1" height="150" alt="stats graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=gowthamkishore3799&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" height="150" alt="languages graph"  />
+</div>
+
+###
+
+<img src="https://raw.githubusercontent.com/gowthamkishore3799/gowthamkishore3799/output/snake.svg" alt="Snake animation" />
+
+###
