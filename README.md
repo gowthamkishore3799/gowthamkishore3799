@@ -1,40 +1,32 @@
+# Gowtham Kishore Vijay
 
-<div align="center">
-  <img height="150" src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif"  />
-</div>
+**Senior Software Engineer at CodeRabbit · San Francisco, CA**
 
-###
+I build AI developer tools and backend systems that help engineers find defects and understand complex repositories. My work centers on agentic code review, long-term repository memory, and reproducible LLM evaluation.
 
-<div align="center">
-  <a href="https://www.linkedin.com/in/gowtham-kishore-gk/" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="linkedin logo"  />
-  </a>
-  <a href="https://gowtham-kishore.me" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Portfolio&logo=dev.to&label=%F0%9F%93%81&color=0A0A0A&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="devto logo"  />
-  </a>
-</div>
+[Portfolio](https://www.gowtham-kishore.me/) · [LinkedIn](https://www.linkedin.com/in/gowtham-gk/) · [Email](mailto:gowthamkishore3@gmail.com)
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=perisicnikola37" alt="Profile view counter on GitHub" />
-</p>
+## Experience
 
-###
+**CodeRabbit — Senior Software Engineer** · August 2026–present  
+**CodeRabbit — Software Engineer** · September 2025–July 2026
 
-<h1 align="center">Howdy 👋</h1>
+### Selected engineering work
 
-###
+- **Agentic code review:** Built a pipeline to catch defects missed by baseline reviews using hypothesis generation, sandbox investigations, and reconciliation. Improved defect recall by approximately **50% over baseline in internal evaluations**, with configurable routing for ongoing model upgrades.
+- **Repository memory:** Developed an architecture knowledge base that learns system structure and conventions from merged PRs and AST graphs. Validated incremental fact updates and drift tracking keep context current and reusable across reviews.
+- **LLM evaluation:** Built controlled model/effort sweeps and replay workflows to compare quality and cost. Increased evaluation capacity from **20 to 40 concurrent PRs** by scaling driver workers.
+- **Graph-aware exploration:** Built dependency-aware review batching and Codebase Explorer integration to retain cross-file context. Running exploration alongside independent static analysis removes the tool-completion wait while preserving coverage.
+- **Engineering work taxonomy:** Combined LLM proposals, deterministic graph validation, encrypted snapshots, and atomic publication to connect internal PR activity to product surfaces, initiatives, and workstreams.
+- **Mentoring:** Guided engineering interns through implementation and engineering feedback as they contributed to production projects.
 
-<h3 align="left">👩‍💻  About Me</h3>
+Previously, I built conversational-platform systems at **Yellow.ai**. I earned my **MS in Computer Science** at California State University, San Bernardino in May 2025.
 
-###
+## Open source and projects
 
-<p align="left">👋 Hi, I'm Gowtham Kishore<br><br>I'm a passionate software engineer originally from India, now based in California. I recently graduated with a Master's degree in Computer Science from California State University, San Bernardino (Spring 2025).<br><br>🔭 I’m currently working on...<br>- Contributing to open-source projects  <br>- Actively seeking full-time opportunities to build impactful software at scale<br><br>⚡ In my free time I...<br>- Contribute to the open-source ecosystem  <br>- Share ideas and insights through technical blog posts  <br>- Explore new technologies and build side projects  <br>- Hit the gym to stay active 💪  <br>- Go on long drives to unwind 🚗</p>
+I contribute to projects including [GitIngest](https://github.com/cyclotruc/gitingest) and [Inbox Zero](https://github.com/elie222/inbox-zero). My own projects include [Interviewer.io](https://github.com/gowthamkishore3799/Interviewer.io), [OctoRag](https://github.com/gowthamkishore3799/Octorag), and [Live Streaming](https://github.com/gowthamkishore3799/live-streaming).
 
-###
-
-<h3 align="left">🛠 Language and tools</h3>
-
-###
+## Languages and tools
 
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="40" alt="nodejs logo"  />
@@ -65,23 +57,3 @@
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="40" alt="github logo"  />
 </div>
-
-###
-
-<h3 align="left">🔥   My Stats :</h3>
-
-###
-
-<div align="center">
-  <img src="https://streak-stats.demolab.com?user=gowthamkishore3799&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5&order=3" height="220" alt="streak graph"  />
-</div>
-
-###
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=gowthamkishore3799&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&order=1" height="150" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=gowthamkishore3799&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" height="150" alt="languages graph"  />
-</div>
-
-
-
