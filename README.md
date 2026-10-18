@@ -16,8 +16,8 @@ I build AI developer tools and backend systems that help engineers find defects 
 - **Agentic code review:** Built a pipeline to catch defects missed by baseline reviews using hypothesis generation, sandbox investigations, and reconciliation. Improved defect recall by approximately **50% over baseline in internal evaluations**, with configurable routing for ongoing model upgrades.
 - **Repository memory:** Developed an architecture knowledge base that learns system structure and conventions from merged PRs and AST graphs. Validated incremental fact updates and drift tracking keep context current and reusable across reviews.
 - **LLM evaluation:** Built controlled model/effort sweeps and replay workflows to compare quality and cost. Increased evaluation capacity from **20 to 40 concurrent PRs** by scaling driver workers.
-- **Graph-aware exploration:** Built dependency-aware review batching and Codebase Explorer integration to retain cross-file context. Running exploration alongside independent static analysis removes the tool-completion wait while preserving coverage.
 - **Engineering work taxonomy:** Combined LLM proposals, deterministic graph validation, encrypted snapshots, and atomic publication to connect internal PR activity to product surfaces, initiatives, and workstreams.
+- **LLM cost optimization:** Reduced LLM inference spend by optimizing OpenAI and Anthropic prompt caching: separated reusable context, implemented Redis-backed cache-key allocation, tuned cache lifetimes, and added token-level telemetry; Anthropic file reviews recorded ~52% token cache hit rate.
 - **Mentoring:** Guided engineering interns through implementation and engineering feedback as they contributed to production projects.
 
 Previously, I built conversational-platform systems at **Yellow.ai**. I earned my **MS in Computer Science** at California State University, San Bernardino in May 2025.
